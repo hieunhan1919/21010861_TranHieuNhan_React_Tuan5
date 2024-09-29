@@ -10,10 +10,10 @@ const Screen_4 = () => {
 
 
   const images = [
-    require('../assets/DATA/Container 7 (1).png'),
-    require('../assets/DATA/Container 7 (2).png'),
-    require('../assets/DATA/Container 7 (3).png'),
-    require('../assets/DATA/Container 7 (4).png'),
+    require('../assets/DATA/Container7(1).png'),
+    require('../assets/DATA/Container7(2).png'),
+    require('../assets/DATA/Container7(3).png'),
+    require('../assets/DATA/Container7(4).png'),
   ];
 
 

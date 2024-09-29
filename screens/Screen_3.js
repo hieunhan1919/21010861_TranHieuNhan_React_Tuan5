@@ -14,7 +14,7 @@ const Screen_3 = () => {
     <View style={styles.container}>
       {}
       <View style={styles.topImageContainer}>
-        <Image source={require('../assets/DATA/Image 20.png')} style={styles.topImage} />
+        <Image source={require('../assets/DATA/Image20.png')} style={styles.topImage} />
       </View>
 
       <View style={styles.formContainer}>

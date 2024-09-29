@@ -2,7 +2,7 @@
   import { View, Text, TextInput, TouchableOpacity, StyleSheet, Image } from 'react-native';
   import { useNavigation } from '@react-navigation/native'; // Import useNavigation
 
-  const logoImage = require('../assets/DATA/Image 19.png'); // Đường dẫn tới hình ảnh logo
+  const logoImage = require('../assets/DATA/Image19.png'); // Đường dẫn tới hình ảnh logo
 
   const Screen_2 = () => {
     const navigation = useNavigation(); // Khai báo useNavigation để điều hướng
