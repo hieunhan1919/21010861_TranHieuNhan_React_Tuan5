@@ -4,7 +4,7 @@ import React from 'react';
 import { View, Text, Image, TouchableOpacity, StyleSheet } from 'react-native';
 import { useNavigation } from '@react-navigation/native'; 
 
-const imageSource = require('../assets/DATA/Container 17.png'); 
+const imageSource = require('../assets/DATA/Container17.png'); 
 
 const Screen_1 = () => {
     const navigation = useNavigation(); // Khai báo hook useNavigation
